@@ -1,22 +1,22 @@
 [
   {
-    "projek": "Becca_Sales",
-    "version": "2.7.10+1",
+    "projek": "becca_sales",
+    "version": "25.7.03+1",
+    "url_file": "https://drive.google.com/open?id=1-5q7x2tomi1prvmtl4rbt8TYvgUXHwBn&usp=drive_fs"
+  },
+  {
+    "projek": "becca_spv",
+    "version": "25.5.22+1",
     "url_file": "http:\\uuuuuu"
   },
   {
-    "projek": "Becca_SPV",
-    "version": "2.7.10+1",
+    "projek": "becca_opname",
+    "version": "25.7.01+1",
     "url_file": "http:\\uuuuuu"
   },
   {
-    "projek": "Becca_Opname",
-    "version": "2.7.10+1",
-    "url_file": "http:\\uuuuuu"
-  },
-  {
-    "projek": "Becca_Supir",
-    "version": "2.7.10+1",
+    "projek": "becca_supir",
+    "version": "25.6.23+1",
     "url_file": "http:\\uuuuuu"
   }
 ]
